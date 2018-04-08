@@ -10,7 +10,7 @@ def record_audio(RECORD_SECONDS, WAVE_OUTPUT_FILENAME):
     CHUNK = 1024  # frames per audio sample
     # --------------------------------------------------------#
 
-    # creating PyAudio object
+   # creating PyAudio object
     audio = pyaudio.PyAudio()
 
     # open a new stream for microphone
