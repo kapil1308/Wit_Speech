@@ -8,7 +8,7 @@ import sys
 from wit import Wit
 
 if len(sys.argv) != 2:
-    print('usage: python ' + sys.argv[0] + 'P6HLKSSDR65FN32JXDI4CHICUL5WSRUT')
+    print('usage: python ' + sys.argv[0] + 'WIT_API_KEY')
     exit(1)
 access_token = sys.argv[1]
 
