@@ -11,4 +11,8 @@ The project contains 3 python files - Recorder.py, Speech.py and justkidding.py.
    - Pycharm Community Edition
    - Recorder (To record audio)
    - Wit
+   
+   
+Take a look at my Wit bot here whcih tells jokes:-
+https://wit.ai/kapil1308/Wit_Speech/entities
 
